@@ -1,0 +1,11 @@
+body
+{
+    background-image: linear-gradient(to right bottom, #2bddc6, #00cfdf, #00bef6, #00a9ff, #008eff, #457ef6, #656dea, #7d59db, #8c53d3, #984dcb, #a346c2, #ac40b9);
+}
+
+h1
+{
+    font-family: 'Amatic SC', cursive;
+    font-size:100px; 
+    color: white;
+}
